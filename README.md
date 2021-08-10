@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse Project For Microverse
 
 > One paragraph statement about the project.
 
@@ -11,12 +11,10 @@ Additional description about the project and its features.
 ## Built With
 
 - Major languages
-- Frameworks
-- Technologies used
+- Html
+- css
 
-## Live Demo
 
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
